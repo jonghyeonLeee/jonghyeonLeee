@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 ### MY Stacks ! ! !
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeonleee&layout=compact&theme=blue-green)
 
+### Time invested in my Stacks ! ! !
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonghyeonleee&layout=compact&theme=blue-green)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonghyeonleee&show_icons=true&theme=radical)
