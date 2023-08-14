@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000F11&height=121&animation=scaleIn&section=header&fontColor=22D22E&fontSize=60&text=jonghyeon🚛💨&fontAlign=50&descAlignY=51&descAlign=50&rotate=1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gasoek+One&size=30&pause=1000&color=000000&background=FFFEF6C4&center=true&vCenter=true&width=820&lines=%F0%9F%91%8B%EB%AA%A8%EB%93%A0+%EA%B2%83%EC%9D%84+%EC%9E%98%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%96%B4%ED%95%98%EB%8A%94+jonghyeonleee(%EA%B9%80%EC%A2%85%EA%B3%A4)+%EC%9E%85%EB%8B%88%EB%8B%A4!%F0%9F%91%8B)](https://git.io/typing-svg)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%jonghyeonleeee%2Fjonghyeonleee&count_bg=%23943C9F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
  
 --- 
