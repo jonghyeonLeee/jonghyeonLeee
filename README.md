@@ -17,11 +17,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mxnet-61DAFB?style=flat&logo=Mxnet&logoColor=black"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
@@ -40,9 +35,8 @@
 
 | 기간 | 회사명 | 프로젝트     |
 |:----|:---------|:--------|
-| 2020.10.05 – 2022.06.17 | <a href="https://www.hyundai-autoever.com/kor/main/index.do" target="_blank"><img src="https://img.shields.io/badge/현대오토에버-white?style=for-the-badge&logo=Hyundai&logoColor=002C5F"/></a> | <p>1. 드론 영상 기반 지붕 검사 알고리즘 개발</p><p>2. 모바일 PDA 문자인식 시스템 개발 </p>|
-| 2019.04.01 - 2020.09.06 | <a href="https://alcherainc.com/" target="_blank"><img src="https://img.shields.io/badge/alchera-blue?style=for-the-badge&logoColor=002C5F"/></a>| <p>1. 행동 인식 딥러닝 알고리즘 개발</p><p>2. 실내외 화재 탐지 딥러닝 알고리즘 개발 </p>|
-| 2018.01.02 - 2019.03.06 | <a href="https://www.kohyoung.com/kr" target="_blank"><img src="https://img.shields.io/badge/고영테크놀러지-green?style=for-the-badge&logoColor=green"/></a> | <p>1. 딥러닝 알고리즘 기법을 적용한 문자 분류기 개발 및 제품에 적용</p><p>2. 딥러닝 알고리즘 기법을 적용한 반도체 이미지 3D Reconstruction 개발 및 제품에 적용 </p>|
+| 2022.10 – | 컴투버스 | <p>1. WebRTC를 활용한 영상통화/화상회의 웹 개발</p><p>2.  </p>|
+| 2019.12 - 2022.10 | 믹시스템 | <p>1. 메신저 웹 개발</p><p>2. 그룹웨어 개발</p>|
 
 <br>
 
