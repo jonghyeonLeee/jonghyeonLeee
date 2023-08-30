@@ -32,10 +32,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </p>
 
-<h2 align="center"> 📋 Experience </h2>
-
-<br>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjonghyeonLeee%2Fhit-counter&count_bg=%2335A1DD&title_bg=%23104343&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=121&animation=scaleIn&section=footer&fontColor=DBFEFE&fontSize=60&fontAlign=50&descAlignY=51&descAlign=50&rotate=1) 
