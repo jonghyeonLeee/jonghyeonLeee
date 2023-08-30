@@ -1,12 +1,12 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=000F11&height=121&animation=scaleIn&section=header&fontColor=22D22E&fontSize=60&text=jonghyeon🚛💨&fontAlign=50&descAlignY=51&descAlign=50&rotate=1)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=jonghyeon🐱)
  
 --- 
 
 <h2 align="center"> 📞 Contact </h2>
 <p>
-  <a href="mailto:rlawhdrhs27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jonghyeonLee.90@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%EC%A2%85%ED%98%84-%EC%9D%B4-2562b3265/" target="_blank"><img src="https://img.shields.io/badge/jonghyeon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:jonghyeonLee.90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jonghyeonLee.90@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%EC%A2%85%ED%98%84-%EC%9D%B4-2562b3265/" target="_blank"><img src="https://img.shields.io/badge/jonghyeon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <h2 align="center"> :hammer: Skills </h2>
