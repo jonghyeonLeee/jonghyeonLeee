@@ -10,7 +10,9 @@
 </p>
 
 <h2 align="center"> :hammer: Skills </h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeonleee&layout=compact&theme=ayu-mirage&card_width=500px)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
