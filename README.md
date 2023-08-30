@@ -38,7 +38,6 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeonleee&show_icons=true&theme=ayu-mirage&card_width=500px) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeonleee&layout=compact&theme=ayu-mirage&card_width=500px)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjonghyeonLeee%2Fhit-counter&count_bg=%2335A1DD&title_bg=%23104343&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
