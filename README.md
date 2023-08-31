@@ -1,6 +1,8 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=121&animation=scaleIn&section=footer&fontColor=DBFEFE&fontSize=60&fontAlign=50&descAlignY=51&descAlign=50)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
  
 --- 
 
