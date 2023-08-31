@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=jonghyeon&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=header&text=jonghyeon&fontSize=20" />
  
 --- 
 
