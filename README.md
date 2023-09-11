@@ -2,8 +2,8 @@
 
 --- 
 
-<p>
-  <a href="mailto:jonghyeonLee.90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jonghyeonLee.90@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%EC%A2%85%ED%98%84-%EC%9D%B4-2562b3265/" target="_blank"><img src="https://img.shields.io/badge/jonghyeon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<p><div>
+  <a href="mailto:jonghyeonLee.90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jonghyeonLee.90@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%EC%A2%85%ED%98%84-%EC%9D%B4-2562b3265/" target="_blank"><img src="https://img.shields.io/badge/jonghyeon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a></div>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeonleee&layout=compact&theme=ayu-mirage&card_width=500px)
